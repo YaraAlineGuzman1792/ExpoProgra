@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yaraa\\source\\repos\\AlgorirmoBellmanFord\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB67C7D-B330-42CF-AF29-6BCB17174C48}|AlgorirmoBellmanFord\\AlgorirmoBellmanFord.vcxproj|C:\\Users\\yaraa\\source\\repos\\AlgorirmoBellmanFord\\AlgorirmoBellmanFord\\AlgorirmoBellmanFord.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9EB67C7D-B330-42CF-AF29-6BCB17174C48}|AlgorirmoBellmanFord\\AlgorirmoBellmanFord.vcxproj|solutionrelative:AlgorirmoBellmanFord\\AlgorirmoBellmanFord.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlgorirmoBellmanFord.cpp",
+              "DocumentMoniker": "C:\\Users\\yaraa\\source\\repos\\AlgorirmoBellmanFord\\AlgorirmoBellmanFord\\AlgorirmoBellmanFord.cpp",
+              "RelativeDocumentMoniker": "AlgorirmoBellmanFord\\AlgorirmoBellmanFord.cpp",
+              "ToolTip": "C:\\Users\\yaraa\\source\\repos\\AlgorirmoBellmanFord\\AlgorirmoBellmanFord\\AlgorirmoBellmanFord.cpp",
+              "RelativeToolTip": "AlgorirmoBellmanFord\\AlgorirmoBellmanFord.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAABQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-22T15:40:08.344Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
